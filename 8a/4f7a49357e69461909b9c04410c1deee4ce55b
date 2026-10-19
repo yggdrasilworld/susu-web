@@ -1,0 +1,16 @@
+eslint.config.js
+  h_d2833f622cce50 180
+package.json
+  h_d2833f622cce50 6,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8a4f7a49357e69461909b9c04410c1deee4ce55b",
+  "prompts": {},
+  "humans": {
+    "h_d2833f622cce50": {
+      "author": "Your Name <you@example.com>"
+    }
+  }
+}
